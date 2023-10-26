@@ -10,4 +10,27 @@ button {
 
 .row {
     display: flex;
+    justify-content: center;
+    
+}
+
+.display {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+.calculator {
+    background-color: grey;
+    Width: 400px;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.inputs {
+    
 }
